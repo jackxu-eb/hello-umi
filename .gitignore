@@ -1,0 +1,14 @@
+*.pyc
+
+# Pycharm
+.idea
+
+# Env
+*.env
+
+# virtualenv
+venv
+
+# temp folder
+tmp
+temp
